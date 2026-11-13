@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--gestoravallecas-9ob.com/sitemap.xml
